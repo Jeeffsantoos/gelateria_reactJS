@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.ecf61009.css",
-    "main.js": "/github-page/static/js/main.f91d8863.js",
-    "static/js/787.466df073.chunk.js": "/github-page/static/js/787.466df073.chunk.js",
-    "static/media/banner-home.png": "/github-page/static/media/banner-home.a58e6b19f3f9b4c9c3dc.png",
-    "index.html": "/github-page/index.html",
-    "main.ecf61009.css.map": "/github-page/static/css/main.ecf61009.css.map",
-    "main.f91d8863.js.map": "/github-page/static/js/main.f91d8863.js.map",
-    "787.466df073.chunk.js.map": "/github-page/static/js/787.466df073.chunk.js.map"
+    "main.css": "/gelateria_reactJS/static/css/main.78df4cc0.css",
+    "main.js": "/gelateria_reactJS/static/js/main.a48d99f7.js",
+    "static/js/787.466df073.chunk.js": "/gelateria_reactJS/static/js/787.466df073.chunk.js",
+    "static/media/banner-home.png": "/gelateria_reactJS/static/media/banner-home.a58e6b19f3f9b4c9c3dc.png",
+    "index.html": "/gelateria_reactJS/index.html",
+    "main.78df4cc0.css.map": "/gelateria_reactJS/static/css/main.78df4cc0.css.map",
+    "main.a48d99f7.js.map": "/gelateria_reactJS/static/js/main.a48d99f7.js.map",
+    "787.466df073.chunk.js.map": "/gelateria_reactJS/static/js/787.466df073.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecf61009.css",
-    "static/js/main.f91d8863.js"
+    "static/css/main.78df4cc0.css",
+    "static/js/main.a48d99f7.js"
   ]
 }
