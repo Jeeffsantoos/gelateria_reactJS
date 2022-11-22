@@ -1,0 +1,48 @@
+.secao-banner {
+  background-color: #FFD700;
+  height: 90vh;
+}
+
+.secao-banner div {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100%;
+background-image: url('/public/assets/banner-home.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: 35em;
+
+}
+
+.secao-banner div h1 {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 80px;
+  text-shadow:0.1em 0.1em 0.05em #333 ;
+
+}
+
+
+@media (max-width: 768px) {
+  .secao-banner div h1 {
+    font-size: 60px;
+  }
+
+  .secao-banner{
+    height: 60vh;
+  }
+}
+
+
+
+@media (max-width: 436px) {
+  .secao-banner div h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .secao-banner{
+    height: 60vh;
+  }
+}

@@ -1,0 +1,109 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.limitar-secao {
+  max-width: 1024px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.secoes-container {
+  height:100%;
+  display: flex;
+  width: 100%;
+}
+
+.secoes-container div img {
+  width: 50vw;
+ height: 100%;
+  object-fit: cover;
+
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+
+}
+
+.container h2 {
+  text-transform: uppercase;
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.container span {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.container p {
+
+  padding-top: 20px;
+  display: flex;
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  .secoes-container {
+    flex-direction: column;
+  }
+
+  .secoes-container div img {
+    width: 100%;
+    height: 22em;
+  }
+
+  .container {
+    margin: 30px auto;
+    height: 22em;
+    width: 100%;
+  }
+
+  .container p {
+    text-align: center;
+  }
+
+  .reverse {
+    flex-direction: column-reverse;
+  }
+}
+
+@media (max-width:436px){
+  .container p {
+    max-width: 200px;
+  
+  }
+
+  .secoes-container {
+    flex-direction: column;
+  }
+
+  .secoes-container div img {
+    width: 100%;
+    height: 25em;
+  }
+
+  .container {
+    margin: 30px auto;
+    height:40em;
+    width: 100%;
+  }
+
+  .reverse {
+    flex-direction: column-reverse;
+  }
+
+}
+
