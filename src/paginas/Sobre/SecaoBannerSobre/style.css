@@ -1,0 +1,45 @@
+.section-banner-sobre {
+  background-image: url('/public/assets/banner-sobre.png');
+  height: 30em;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center center;
+  display:flex;
+  justify-content: center;
+}
+
+.titulo-sobre {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 60px;
+  text-shadow:0.1em 0.1em 0.05em #333 ;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+@media (max-width: 768px){
+ 
+.titulo-sobre  {
+    font-size: 35px;
+    text-align: center;
+  }
+  
+  .section-banner-sobre {
+    height: 25em;
+  }
+  }
+  
+  @media (max-width: 425px){
+    .titulo-sobre {
+      font-size: 35px;
+      text-align: center;
+    }
+    
+    .section-banner-sobre {
+      height: 25em;
+    }
+    }

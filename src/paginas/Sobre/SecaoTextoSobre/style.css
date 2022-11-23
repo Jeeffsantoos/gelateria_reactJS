@@ -1,0 +1,25 @@
+.section-sobre {
+margin: 45px auto;
+  text-align: center;
+}
+
+.section-sobre div{
+  padding: 25px;
+}
+
+.section-sobre div h2{
+  font-size: 45px;
+  text-transform: uppercase;
+}
+
+
+.section-sobre div span{
+  font-size: 20px;
+  font-style: italic;
+}
+
+.section-sobre p{
+  font-size: 17px;
+ padding-top: 20px;
+ padding-bottom: 10px;
+}

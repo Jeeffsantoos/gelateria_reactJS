@@ -1,0 +1,25 @@
+.section-sobre-fotos {
+  height: 70vh;
+  display: flex;
+
+}
+
+
+.section-sobre-fotos div img {
+  width: 50vw;
+  object-fit: cover;
+  height: 100%;
+}
+
+@media (max-width: 768px){
+  .section-sobre-fotos {
+    flex-direction: column;
+    height: 100%;
+  }
+  .section-sobre-fotos div img { 
+    width: 100%;
+  
+  }
+}
+    
+    @media (max-width: 425px){}

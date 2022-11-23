@@ -1,14 +1,16 @@
 import React from 'react';
 import Rodape from '../../componentes/Rodape';
-import SecaoSabores from '../../componentes/Secoes/SecaoSabores';
 import Topo from '../../componentes/Topo';
+import SecaoBannerSabores from './SecaoBannerSabores';
+import SecaoCardSabores from './SecaoCardSabores';
 
 
 export default function Sabores() {
   return (
     <main>
       <Topo />
-      <SecaoSabores />
+      <SecaoBannerSabores />
+      <SecaoCardSabores />
       <Rodape />
     </main>
   );
