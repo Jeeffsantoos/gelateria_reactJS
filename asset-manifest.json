@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/gelateria_reactJS/static/css/main.78df4cc0.css",
-    "main.js": "/gelateria_reactJS/static/js/main.a48d99f7.js",
-    "static/js/787.466df073.chunk.js": "/gelateria_reactJS/static/js/787.466df073.chunk.js",
-    "static/media/banner-home.png": "/gelateria_reactJS/static/media/banner-home.a58e6b19f3f9b4c9c3dc.png",
-    "index.html": "/gelateria_reactJS/index.html",
-    "main.78df4cc0.css.map": "/gelateria_reactJS/static/css/main.78df4cc0.css.map",
-    "main.a48d99f7.js.map": "/gelateria_reactJS/static/js/main.a48d99f7.js.map",
-    "787.466df073.chunk.js.map": "/gelateria_reactJS/static/js/787.466df073.chunk.js.map"
+    "main.css": "./static/css/main.989997a0.css",
+    "main.js": "./static/js/main.0371e41b.js",
+    "static/js/787.466df073.chunk.js": "./static/js/787.466df073.chunk.js",
+    "static/media/banner-sobre.png": "./static/media/banner-sobre.e958a86cc903592d30f0.png",
+    "static/media/banner-sabores.jpg": "./static/media/banner-sabores.0e325a982b455ed9676c.jpg",
+    "static/media/banner-home.png": "./static/media/banner-home.a58e6b19f3f9b4c9c3dc.png",
+    "index.html": "./index.html",
+    "main.989997a0.css.map": "./static/css/main.989997a0.css.map",
+    "main.0371e41b.js.map": "./static/js/main.0371e41b.js.map",
+    "787.466df073.chunk.js.map": "./static/js/787.466df073.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78df4cc0.css",
-    "static/js/main.a48d99f7.js"
+    "static/css/main.989997a0.css",
+    "static/js/main.0371e41b.js"
   ]
 }
